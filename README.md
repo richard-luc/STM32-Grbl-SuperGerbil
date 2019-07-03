@@ -1,4 +1,4 @@
-# SuperGerbil
+# STM32-Grbl-SuperGerbil
 STM32 driven ARM Grbl firmware
 ![GitHub Logo](https://awesome.tech/wp-content/uploads/2018/11/20181030_103220-1-e1547624499622.jpg)
 
@@ -8,7 +8,7 @@ Latest firmware (SG_stm32grbl11.hex) for the Super Gerbil CNC controller is avai
 For the insights of ARM Grbl, please visit this page [click here] https://awesome.tech/grbl-demystified/
 
 -Github repo grbl-1 is for Coocoox CoIde compiler
--Github repo SuperGerbil is for Atollic compiler (preferred)
+-Github repo STM32-Grbl-SuperGerbil is for Atollic compiler (preferred)
 
 Grbl is a no-compromise, high performance, low cost alternative to parallel-port-based motion control for CNC milling. This version of Grbl runs on a STM32F10x processor. For the appropriate boards see our website https://awesome.tech/buy-gerbil/
 
@@ -24,13 +24,8 @@ Grbl includes full acceleration management with look ahead. That means the contr
 
 * Lead Developer Gnea: Sungeun "Sonny" Jeon, Ph.D. (USA) aka @chamnit
 
-* Lead Developer Awesome.tech Super Gerbil: Paul "Laserboy" de Groot (AU) aka @paulusjacobus
+* Lead Developer Awesome.tech Super Gerbil: Richard aka [@richard-luc](https://github.com/richard-luc)
 
 * Built on the wonderful Grbl v0.6 (2011) AND v1.1f firmware written by Simen Svale Skogsrud (Norway).
 
 ***
-
--------------
-Grbl is an open-source project and fueled by the free-time of our intrepid administrators and altruistic users. If you'd like to donate to @chamnit, all proceeds will be used to help him fund supporting hardware and testing equipment or support us Awesome.tech by buying our boards. Thank you!
-
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CUGXJHXA36BYW)
